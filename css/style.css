@@ -200,6 +200,8 @@ p {
 
 /* Dark Mode Toggle */
 .theme-switch-wrapper {
+  font-family: Playfair Display, sans-serif;
+  font-weight: bolder;
   display: flex;
   align-items: center;
   z-index: 100;
